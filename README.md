@@ -21,21 +21,32 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
+# ruby
 require 'pebbles/suddenly_death_string'
 
 puts '突然の死'.to_suddenly_death
+
 #=>
 # ＿人人人人人人＿
 # ＞　突然の死　＜
 # ￣Y^Y^Y^Y^Y￣
 
 puts Object.to_suddenly_death
+
 #=>
 # ＿人人人人人＿
 # ＞　Object　＜
 # ￣Y^Y^Y^Y￣
+```
 
+```sh
+# shell
+$ suddenly "突然の死"
 
+#=>
+# ＿人人人人人人＿
+# ＞　突然の死　＜
+# ￣Y^Y^Y^Y^Y￣
 ```
 
 ## Contributing

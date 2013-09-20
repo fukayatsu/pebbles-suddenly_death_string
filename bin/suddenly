@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+# -*- encoding: utf-8 -*-
+
+require 'pebbles/suddenly_death_string'
+
+
+if ARGV.length == 0
+  puts '突然の死'.to_suddenly_death
+else
+  puts ARGV[0].to_suddenly_death
+end
