@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["fukayatsu@gmail.com"]
   spec.description   = %q{a joke gem}
   spec.summary       = %q{a joke gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/fukayatsu/pebbles-suddenly_death_string"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
