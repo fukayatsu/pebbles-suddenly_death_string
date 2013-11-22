@@ -2,7 +2,7 @@
 
     ＿人人人人人人＿
     ＞　突然の死　＜
-    ￣Y^Y^Y^Y^Y￣
+    ￣ＹＹＹＹＹＹ￣
 
 ## Installation
 
@@ -29,14 +29,14 @@ puts '突然の死'.to_suddenly_death
 #=>
 # ＿人人人人人人＿
 # ＞　突然の死　＜
-# ￣Y^Y^Y^Y^Y￣
+# ￣ＹＹＹＹＹＹ￣
 
 puts Object.to_suddenly_death
 
 #=>
 # ＿人人人人人＿
 # ＞　Object　＜
-# ￣Y^Y^Y^Y￣
+# ￣ＹＹＹＹＹ￣
 ```
 
 ```sh
@@ -46,7 +46,7 @@ $ suddenly "突然の死"
 #=>
 # ＿人人人人人人＿
 # ＞　突然の死　＜
-# ￣Y^Y^Y^Y^Y￣
+# ￣ＹＹＹＹＹＹ￣
 ```
 
 ## Contributing
