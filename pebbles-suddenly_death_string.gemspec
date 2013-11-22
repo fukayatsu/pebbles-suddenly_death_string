@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Pebbles::SuddenlyDeathString::VERSION
   spec.authors       = ["fukayatsu"]
   spec.email         = ["fukayatsu@gmail.com"]
-  spec.description   = %q{a joke gem}
-  spec.summary       = %q{a joke gem}
+  spec.description   = %q{＞　突然の死　＜}
+  spec.summary       = %q{＞　突然の死　＜}
   spec.homepage      = "https://github.com/fukayatsu/pebbles-suddenly_death_string"
   spec.license       = "MIT"
 
