@@ -7,9 +7,9 @@ class Object
       c.bytes.length > 1 ? 2 : 1
     }.inject(:+) / 2
 
-    text = "＿人#{'人' * len}人＿\n" +
+    text = "＿#{ '人' * (len + 2) }＿\n" +
            "＞　#{self.to_s }　＜\n" +
-           "￣#{'Y^' * len }Y￣"
+           "￣#{ 'Ｙ' * (len + 2) }￣"
     text
   end
 end
