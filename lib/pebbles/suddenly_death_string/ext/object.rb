@@ -1,7 +1,7 @@
 class Object
   # ＿人人人人人人＿
   # ＞　突然の死　＜
-  # ￣Y^Y^Y^Y^Y￣
+  # ￣ＹＹＹＹＹＹ￣
   def to_suddenly_death
     len = self.to_s.split('').map { |c|
       c.bytes.length > 1 ? 2 : 1
